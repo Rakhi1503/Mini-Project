@@ -1,14 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[1]:
-
-
-pip install colored
-
-
-# In[ ]:
-
 
 from tkinter import *
 # GUI
@@ -76,16 +65,3 @@ send = Button(root, text="Send", font=FONT_BOLD, bg=BG_GRAY,command=send).grid(r
 #root.geometry("800x600")
 
 root.mainloop()
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
